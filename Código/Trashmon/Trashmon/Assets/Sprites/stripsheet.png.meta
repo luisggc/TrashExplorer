@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 16343e37221ac65449b49bdfdfc1c8e6
+timeCreated: 1472951443
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stripsheet_0
+    21300002: stripsheet_1
+    21300004: stripsheet_2
+    21300006: stripsheet_3
+    21300008: stripsheet_4
+    21300010: stripsheet_5
+    21300012: stripsheet_6
+    21300014: stripsheet_7
+    21300016: stripsheet_8
+    21300018: stripsheet_9
+    21300020: stripsheet_10
+    21300022: stripsheet_11
+    21300024: stripsheet_12
+    21300026: stripsheet_13
+    21300028: stripsheet_14
+    21300030: stripsheet_15
+    21300032: stripsheet_16
+    21300034: stripsheet_17
+    21300036: stripsheet_18
+    21300038: stripsheet_19
+    21300040: stripsheet_20
+    21300042: stripsheet_21
+    21300044: stripsheet_22
+    21300046: stripsheet_23
+    21300048: stripsheet_24
+    21300050: stripsheet_25
+    21300052: stripsheet_26
+    21300054: stripsheet_27
+    21300056: stripsheet_28
+    21300058: stripsheet_29
+    21300060: stripsheet_30
+    21300062: stripsheet_31
+    21300064: stripsheet_32
+    21300066: stripsheet_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stripsheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 247
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 247
+        width: 51
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 247
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 247
+        width: 46
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 247
+        width: 45
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 247
+        width: 45
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 247
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 177
+        width: 25
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 183
+        width: 25
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 111
+        width: 23
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 111
+        width: 31
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 25
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 111
+        width: 29
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 29
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 111
+        width: 24
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 111
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 110
+        width: 31
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 110
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 110
+        width: 24
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 110
+        width: 28
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 110
+        width: 29
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 110
+        width: 24
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 41
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 41
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 41
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 41
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 41
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 41
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stripsheet_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

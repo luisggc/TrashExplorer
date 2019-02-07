@@ -1,0 +1,23 @@
+
+
+///////// Instalação em Android ////////////
+
+
+- Baixe o aplicativo que se encontra na pasta "Android" no celular
+- Vá em configurações no celular e procure a opção de permitir a instalação de aplicativos cuja fonte é desconhecida
+- Procure o aquivo de instalação "TrashExplorer.apk" no celular e instale normalmente
+- Leia as instruções
+
+
+//////////// Instalação em PC //////////////
+
+
+- Baixe a pasta "x86" e execute o arquivo "TrashExplorerx86.exe"
+- Caso dê erro de arquitetura, baixe a pasta "x86_64" e execute o arquivo "TrashExplorer(x86_64).exe"
+- Selecione a melhor resolução para sua tela e deixe marcado a opção "Windowed"
+- Leia as instruções do jogo
+
+OBS: É importante que a pasta toda seja baixada e não somente o arquivo ".exe"
+
+
+///////////////////////////////////////////
